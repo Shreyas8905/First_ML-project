@@ -1,0 +1,8 @@
+README.md
+setup.py
+shreyas_ml_project.egg-info/PKG-INFO
+shreyas_ml_project.egg-info/SOURCES.txt
+shreyas_ml_project.egg-info/dependency_links.txt
+shreyas_ml_project.egg-info/requires.txt
+shreyas_ml_project.egg-info/top_level.txt
+src/__init__.py
